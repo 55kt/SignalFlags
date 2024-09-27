@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+        "symbol": "A",
+        "name": "Alfa",
+        "description": "I have a diver down; keep well clear at slow speed."
+    },
+    {
+        "id": 2,
+        "symbol": "B",
+        "name": "Bravo",
+        "description": "I am taking in, discharging, or carrying dangerous goods."
+    },
+    {
+        "id": 3,
+        "symbol": "C",
+        "name": "Charlie",
+        "description": "Affirmative."
+    },
+    {
+        "id": 4,
+        "symbol": "D",
+        "name": "Delta",
+        "description": "Keep clear of me; I am maneuvering with difficulty."
+    },
+    {
+        "id": 5,
+        "symbol": "E",
+        "name": "Echo",
+        "description": "I am altering my course to starboard."
+    },
+    {
+        "id": 6,
+        "symbol": "F",
+        "name": "Foxtrot",
+        "description": "I am disabled; communicate with me."
+    },
+    {
+        "id": 7,
+        "symbol": "G",
+        "name": "Golf",
+        "description": "I require a pilot. When made by fishing vessels operating in close proximity on the fishing grounds it means: I am hauling nets."
+    },
+    {
+        "id": 8,
+        "symbol": "H",
+        "name": "Hotel",
+        "description": "I have a pilot on board."
+    },
+    {
+        "id": 9,
+        "symbol": "I",
+        "name": "India",
+        "description": "I am altering my course to port."
+    },
+    {
+        "id": 10,
+        "symbol": "J",
+        "name": "Juliett",
+        "description": "I am on fire and have dangerous cargo; keep clear."
+    },
+    {
+        "id": 11,
+        "symbol": "K",
+        "name": "Kilo",
+        "description": "I wish to communicate with you."
+    },
+    {
+        "id": 12,
+        "symbol": "L",
+        "name": "Lima",
+        "description": "In harbor: The ship is under Quarantine. At sea: You should stop your vessel instantly."
+    },
+    {
+        "id": 13,
+        "symbol": "M",
+        "name": "Mike",
+        "description": "My vessel is stopped and making no way through the water."
+    },
+    {
+        "id": 14,
+        "symbol": "N",
+        "name": "November",
+        "description": "Negative."
+    },
+    {
+        "id": 15,
+        "symbol": "O",
+        "name": "Oscar",
+        "description": "Man overboard (often attached to the man overboard pole on boats)."
+    },
+    {
+        "id": 16,
+        "symbol": "P",
+        "name": "Papa",
+        "description": "The Blue Peter. In harbor: All persons should report on board as the vessel is about to proceed to sea. At sea: It may be used by fishing vessels to mean: My nets have come fast upon an obstruction."
+    },
+    {
+        "id": 17,
+        "symbol": "Q",
+        "name": "Quebec",
+        "description": "My vessel is healthy and I request free pratique."
+    },
+    {
+        "id": 18,
+        "symbol": "R",
+        "name": "Romeo",
+        "description": "No specific meaning; often used as a spacer."
+    },
+    {
+        "id": 19,
+        "symbol": "S",
+        "name": "Sierra",
+        "description": "I am operating astern propulsion."
+    },
+    {
+        "id": 20,
+        "symbol": "T",
+        "name": "Tango",
+        "description": "Keep clear of me; I am engaged in pair trawling."
+    },
+    {
+        "id": 21,
+        "symbol": "U",
+        "name": "Uniform",
+        "description": "You are running into danger."
+    },
+    {
+        "id": 22,
+        "symbol": "V",
+        "name": "Victor",
+        "description": "I require assistance."
+    },
+    {
+        "id": 23,
+        "symbol": "W",
+        "name": "Whiskey",
+        "description": "I require medical assistance."
+    },
+    {
+        "id": 24,
+        "symbol": "X",
+        "name": "X-ray",
+        "description": "Stop carrying out your intentions and watch for my signals."
+    },
+    {
+        "id": 25,
+        "symbol": "Y",
+        "name": "Yankee",
+        "description": "I am dragging my anchor."
+    },
+    {
+        "id": 26,
+        "symbol": "Z",
+        "name": "Zulu",
+        "description": "I require a tug. When made by fishing vessels operating in close proximity on the fishing grounds it means: I am shooting nets."
+    }
+]
