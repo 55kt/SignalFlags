@@ -32,4 +32,15 @@ class Flags {
             }
         }
     }
+    
+    // Function for enable toolbar search
+    func search(for searchTerm: String) -> [SignalFlag] {
+        if searchTerm.isEmpty {
+            return signalFlags
+        } else {
+            return signalFlags.filter { flag in
+                flag.name.localizedCaseInsensitiveContains(searchTerm)
+            }
+        }
+    }
 }
